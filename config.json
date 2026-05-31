@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheuelete",
+        "uuid": 10584612,
+        "checksum": "edg94"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
